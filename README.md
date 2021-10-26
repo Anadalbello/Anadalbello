@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/00/75/1c/00751c0daa502d5b506c4fb0502977ca.gif">
 
-### Hi, I'm Ana Bello! :octocat: 👋
+### Hi, I'm Ana Bello! :octocat:
 
 :books: I am a student of Electrical Engineering & Analysis and Systems Development.<br/>
 :seedling: I'm learning Python, HTML, CSS, JavaScript and Database programming language.<br/>
