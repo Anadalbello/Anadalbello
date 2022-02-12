@@ -2,9 +2,9 @@
 
 # <title> Hi, I'm Ana Bello! </title> :octocat:
 
-:books: I am a student of Electrical Engineering & Analysis and Systems Development.<br/>
-:seedling: I'm learning Python, HTML, CSS, JavaScript and Database programming language.<br/>
-:computer: I have basic knowledge in SQL database, Markdown and intend to continue in the area as Dev Back-end or Full Stack. <br/>
+:books: I am a Electrical engineer who is studying systems analysis and development. .<br/>
+:seedling:I am currently working on fullstack areas, but I am more front-end oriented.<br/>
+:computer:I have knowledge in CSS, SCSS, HTML, Markdown, JavaScrip and basic Python. <br/>
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=Anadalbello&bg_color=110,FF1493,9400D3,1E90FF,4169E1&title_color=fff&text_color=fff) <br/>
 
