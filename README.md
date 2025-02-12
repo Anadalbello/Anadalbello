@@ -2,15 +2,17 @@
 
 # <title> Hi, I'm Ana Bello! </title> :octocat:
 
-:books: I'm an electrical engineer. I decided to try my luck with products and user experience (UX). .<br/>
-:seedling:I work in product support areas, but I really enjoy creating UX writing materials..<br/>
+:books: I'm an electrical engineer. I decided to try my luck with products and user experience (UX). <br/>
+:seedling:I work in product support areas, but I really enjoy creating UX writing materials. <br/>
 :computer:I have knowledge in CSS, SCSS, HTML, Markdown,Jira, Confluence, Figma, django,JavaScrip and Python. <br/>
 
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=Anadalbello&bg_color=110,FF1493,9400D3,1E90FF,4169E1&title_color=fff&text_color=fff) <br/>
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=Anadalbello&show_icons=true&bg_color=110,FF1493,9400D3,1E90FF,4169E1&title_color=fff&text_color=fff) <br/>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Anadalbello">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadalbello&bg_color=110,FF1493,9400D3,1E90FF,4169E1&title_color=fff&text_color=fff" />
 </a>
+
+<div align="center">
 
 ## **Languages and Tools:**
 
