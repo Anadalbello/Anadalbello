@@ -23,4 +23,4 @@
 <code><img height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/256/text-x-markdown-icon.png"></code><br/>
 
 ## **If you want to contact me, these are my social networks, choose one:**<br/>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-beatriz-orlando-dal-bello-36a821125/)<br/>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anabellopcd/)<br/>
