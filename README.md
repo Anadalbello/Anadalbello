@@ -2,9 +2,9 @@
 
 # <title> Hi, I'm Ana Bello! </title> :octocat:
 
-:books: I am a Electrical engineer who is studying systems analysis and development. .<br/>
-:seedling:I am currently working on fullstack areas, but I am more front-end oriented.<br/>
-:computer:I have knowledge in CSS, SCSS, HTML, Markdown, JavaScrip and basic Python. <br/>
+:books: I'm an electrical engineer. I decided to try my luck with products and user experience (UX). .<br/>
+:seedling:I work in product support areas, but I really enjoy creating UX writing materials..<br/>
+:computer:I have knowledge in CSS, SCSS, HTML, Markdown,Jira, Confluence, Figma, django,JavaScrip and Python. <br/>
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=Anadalbello&bg_color=110,FF1493,9400D3,1E90FF,4169E1&title_color=fff&text_color=fff) <br/>
 
